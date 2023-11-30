@@ -1,7 +1,7 @@
 package com.deproos.springboot.app.oauth.services;
 
 import com.deproos.springboot.app.oauth.clients.UsuarioFeingClient;
-import com.deproos.springboot.usuarios.commons.models.entity.Usuario;
+import com.deproos.springboot.commons.usuarios.models.entity.Usuario;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
